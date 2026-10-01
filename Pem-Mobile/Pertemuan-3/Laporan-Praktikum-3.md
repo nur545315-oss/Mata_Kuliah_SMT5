@@ -161,7 +161,7 @@ Langkah 11 : Membuat StyleSheet untuk Styling Terpusat
     ![alt text](image-27.png)
 17. CV 
     1. Menampilkan profile, riwayat pendidikan, dan core components
-        ![alt text](image-28.png)
+        ![alt text](image-35.png)
         ![alt text](image-29.png)
         ![alt text](image-30.png)
         ![alt text](image-31.png)
